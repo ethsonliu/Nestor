@@ -12,11 +12,6 @@ TARGET = Nestor
 
 RC_ICONS = nestor.ico
 
-# TODO
-# 跨平台
-# throttle 达到一定数据量的再推出去
-# 正在处理数据的时候关掉会卡住
-
 INCLUDEPATH += \
     $$PWD/3rd
 
